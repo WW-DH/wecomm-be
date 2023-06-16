@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "wecomm",
+    "password": "wecomm123!",
+    "database": "wecomm",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
