@@ -1,11 +1,17 @@
 {
-  "name": "WeCommBe",
+  "name": "wecommbe",
   "version": "1.0.0",
-  "main":"app.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.18.2",
-    "nodemon": "^2.0.22"
-  }, "scripts": {
+    "mysql2": "^3.3.5",
+    "nodemon": "^2.0.22",
+    "sequelize": "^6.32.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.1"
+  },
+  "scripts": {
     "start": "nodemon"
   }
 }
